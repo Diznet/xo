@@ -7,3 +7,4 @@ Name tags - Названия тегов
 3)BtnClick - activity of buttons according to player
 4)CheckForWin - name says for itself (checks for win conditions)
 5)buttons = StringVar() - button settings
+ really nee 75 :D
